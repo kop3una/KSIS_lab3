@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\КСИС\lab3\TCP\ECHO-TCP-CLIENT\Client\Client.cpp(88,6): warning C4101: nsize: неиспользованная локальная переменная
+C:\Users\kiril\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\КСИС\lab3\TCP\ECHO-TCP-CLIENT\Client\Client.cpp(85,8): warning C4101: thID: неиспользованная локальная переменная
+  Client.vcxproj -> C:\Users\kiril\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\КСИС\lab3\TCP\ECHO-TCP-CLIENT\Client\Debug\Client.exe
